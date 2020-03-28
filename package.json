@@ -5,7 +5,6 @@
     "name": "COMM MEDIA NETWORK SAS",
     "email": "pablo@commm.co"
   },
-  "license": "MIT",
   "dependencies": {
     "moment": "^2.24.0",
     "next": "^9.2.2",
@@ -25,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/garitma/next-elgaritmatico"
+    "url": "https://github.com/commmedia/next-trend-business"
   }
 }
