@@ -1,0 +1,30 @@
+{
+  "name": "next-trend-business",
+  "version": "1.0.0",
+  "author": {
+    "name": "COMM MEDIA NETWORK SAS",
+    "email": "pablo@commm.co"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "next": "^9.2.2",
+    "next-seo": "^1.11.1",
+    "nprogress": "^0.2.0",
+    "prismic-javascript": "^2.2.0",
+    "prismic-reactjs": "^0.3.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-multi-carousel": "^2.5.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garitma/next-elgaritmatico"
+  }
+}
