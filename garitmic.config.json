@@ -1,0 +1,19 @@
+{
+    "siteName": "Trend Business",
+    "siteDescription": "",
+    "siteURL": "https://trendbusiness.com/",
+    "apiEndpoint": "https://trend.cdn.prismic.io/api/v2",
+    "accessToken": "process.env.ACCESS_TOKEN",
+    "favIcon": "",
+    "contactEmail": "pablo@commm.com",
+    "lang": "es",
+    "timeZone": "UTC-5",
+    "dateFormat": "LL",
+    "ArchivePageSize": "12",
+    "social": {
+        "instagram": "",
+        "twitter": "",
+        "facebook": "",
+        "openGrap": ""
+    }
+}
